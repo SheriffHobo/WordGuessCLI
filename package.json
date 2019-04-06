@@ -1,0 +1,25 @@
+{
+  "name": "wordguesscli",
+  "version": "1.0.0",
+  "description": "Hangman style word guess game",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "inquirer": "^6.2.2",
+    "terminalizer": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheriffHobo/WordGuessCLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheriffHobo/WordGuessCLI/issues"
+  },
+  "homepage": "https://github.com/SheriffHobo/WordGuessCLI#readme"
+}
